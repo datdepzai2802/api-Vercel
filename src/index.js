@@ -1,4 +1,5 @@
 const jsonServer = require("json-server");
+const cors = require("cors");
 const auth = require("json-server-auth");
 const path = require("path");
 const server = jsonServer.create();
@@ -15,6 +16,7 @@ const rules = auth.rewriter({
 });
 
 // You must apply the middlewares in the following order
+server.use(cors());
 server.use(rules);
 server.use(auth);
 

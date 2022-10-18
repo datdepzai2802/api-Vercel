@@ -1,0 +1,263 @@
+{
+  "Users": [
+    {
+      "id": 1,
+      "name": "Ngô Tiến Đạt update",
+      "address": "Thanh Xuân, Hà Nội 2",
+      "urlImage": "https://picsum.photos/536/354",
+      "email": "tiendat@gmail.com",
+      "password": "dat123",
+      "phone": "0989897890",
+      "admin": true
+    },
+    {
+      "id": 2,
+      "name": "Trần Đình Phúc",
+      "address": "Sóc Sơn, Hà Nội",
+      "urlImage": "https://picsum.photos/536/354",
+      "email": "dinhphuc@gmail.com",
+      "password": "phuc123",
+      "phone": "098989898989",
+      "admin": false
+    },
+    {
+      "id": 3,
+      "name": "Đinh Huy Tuấn Anh",
+      "address": "Thanh Xuân, Hà Nội",
+      "urlImage": "https://picsum.photos/536/354",
+      "email": "tuananh@gmail.com",
+      "password": "tuananh123",
+      "phone": "098989898989",
+      "admin": false
+    },
+    {
+      "id": 5,
+      "name": "Trần Quốc Tuấn",
+      "address": "Thanh Xuân, Hà Nội",
+      "urlImage": "https://picsum.photos/536/354",
+      "email": "quoctuan@gmail.com",
+      "password": "quoctuan123",
+      "phone": "098989898989",
+      "admin": false
+    }
+  ],
+  "Products": [
+    {
+      "id": 2,
+      "name": "Điện thoại Samsung Galaxy A03s update",
+      "urlImage": "https://salt.tikicdn.com/cache/750x750/ts/product/be/83/73/79ac456ddfc8f355556c5b752e611408.jpg.webp",
+      "price": 2820000,
+      "descSort": "A03s sỡ hữu thiết kế tương tự như thế hệ trước, trẻ trung và hiện đại.",
+      "descLong": "<p>A03s sỡ hữu thiết kế tương tự như thế hệ trước, trẻ trung và hiện đại. Các cạnh của máy được vát cong cho khả năng cầm nắm tốt hơn, mặt lưng được phủ mờ giúp hạn chế trầy xước cũng như bám mồ hôi và dấu vân tay hiệu quả. Ngoài ra, máy cũng đi kèm với 3 màu sắc thời trang cho bạn dễ dàng lựa chọn.</p><p>Màn hình vô cực Infinity-V 6.5' cùng tỉ lệ màn hình 20:9 giúp tối ưu hóa hiển thị, đem đến cho bạn một không gian giải trí đã mắt. Tuy độ phân giải chỉ dừng lại ở mức HD+ nhưng bạn hay cứ yên tâm, hình ảnh vẫn được tái hiện sống động, trọn vẹn mọi chi tiết.</p><p>Máy được trang bị bộ vi xử lý Helio P35 đến từ MediaTek với 8 nhân xung nhịp 2.3GHz mạnh mẽ, giúp chạy các ứng dụng nhanh chóng, làm việc và giải trí tốt hơn. Dung lượng RAM 4GB sẽ giúp xử lý các tác vụ mượt mà, giảm các hiện tượng giật lag. Bộ nhớ trong 64GB hỗ trợ mở rộng bằng thẻ nhớ ngoài lên đến 1TB cho bạn một không gian lưu trữ cực lớn, có thể lưu bất cứ những gì bạn thích mà không lo về vấn đề bộ nhớ nữa.</p><p>A03s được trang bị bộ 3 camera với độ phân giải lần lượt là 13MP - 2MP - 2MP. Camera chính 13MP cho chất lượng ảnh luôn sắc nét, cho tiết cao. Camera xóa phông 2MP hỗ trợ chụp ảnh chân dung xóa phông tuyệt đẹp, hậu cảnh được làm mờ một cách tự nhiên. Camera cận cảnh 2MP giúp bạn bắt trọn mọi chi tiết của vật thể với khoảng cách cực gần 3 - 5cm. Với bộ 3 camera trên A03s, bạn sẽ dễ dàng lưu lại mọi khoảnh khắc một cách tuyệt vời, trọn vẹn nhất.</p><p>Dung lượng pin 5000mAh trên A03s giúp bạn thoải mái giải trí cả ngày dài mà không lo hết pin. Nếu chỉ sử dụng với các tác vụ thông thường, thời lượng sử dụng có thể lên đến 2 ngày chỉ với một lần sạc.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "star": "4.9",
+      "id_categories": 1
+    },
+    {
+      "id": 3,
+      "name": "Apple iPhone 13",
+      "urlImage": "https://salt.tikicdn.com/cache/750x750/ts/product/b7/ba/88/66059a54a3a139d45841d412379b1fe4.jpg.webp",
+      "price": 18990000,
+      "descSort": "iPhone 13. Hệ thống camera kép tiên tiến nhất từng có trên iPhone. Chip A15 Bionic thần tốc. Bước nhảy vọt về thời lượng pin. Thiết kế bền bỉ. Mạng 5G siêu nhanh.1 Cùng với màn hình Super Retina XDR sáng hơn.",
+      "descLong": "<p>Cần có gói cước dữ liệu. Mạng 5G chỉ khả dụng ở một số thị trường và được cung cấp qua một số nhà mạng. Tốc độ có thể thay đổi tùy địa điểm và nhà mạng. Để biết thông tin về hỗ trợ mạng 5G, vui lòng liên hệ nhà mạng và truy cập</p><p>Màn hình có các góc bo tròn theo đường cong tuyệt đẹp và nằm gọn theo một hình chữ nhật chuẩn. Khi tính theo hình chữ nhật chuẩn, kích thước màn hình là 6.06 inch theo đường chéo. Diện tích hiển thị thực tế nhỏ hơn.</p><p>Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình. Truy cập apple.com/batteries để biết thêm thông tin.</p><p>iPhone 13 có khả năng chống nước, chống tia nước và chống bụi. Sản phẩm đã qua kiểm nghiệm trong điều kiện phòng thí nghiệm có kiểm soát đạt mức IP68 theo tiêu chuẩn IEC 60529. Khả năng chống tia nước, chống nước và chống bụi không phải là các điều kiện vĩnh viễn. Khả năng này có thể giảm do hao mòn thông thường. Không sạc pin khi iPhone đang bị ướt. Vui lòng tham khảo hướng dẫn sử dụng để biết cách lau sạch và làm khô máy. Không bảo hành sản phẩm bị hỏng do thấm chất lỏng.</p><p>Một số tính năng không khả dụng tại một số quốc gia hoặc khu vực.</p><p>Phụ kiện được bán riêng.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "star": "5",
+      "id_categories": 1
+    },
+    {
+      "id": 4,
+      "name": "Apple iPhone 13 Pro Max",
+      "urlImage": "https://salt.tikicdn.com/cache/750x750/ts/product/89/37/ff/16d7ccefa742ec7dcb443fe8b38fd025.jpg.webp",
+      "price": 26990000,
+      "descSort": "iPhone 13 Pro Max. Một nâng cấp hệ thống camera chuyên nghiệp hoành tráng chưa từng có. Màn hình Super Retina XDR với ProMotion cho cảm giác nhanh nhạy hơn. Chip A15 Bionic thần tốc. Mạng 5G siêu nhanh.1 Thiết kế bền bỉ và thời lượng pin dài nhất từng có trên iPhone.",
+      "descLong": "<p>1Cần có gói cước dữ liệu. Mạng 5G chỉ khả dụng ở một số thị trường và được cung cấp qua một số nhà mạng. Tốc độ có thể thay đổi tùy địa điểm và nhà mạng. Để biết thông tin về hỗ trợ mạng 5G, vui lòng liên hệ nhà mạng và truy cập</p><p>Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình. Truy cập apple.com/batteries để biết thêm thông tin</p><p>Màn hình có các góc bo tròn theo đường cong tuyệt đẹp và nằm gọn theo một hình chữ nhật chuẩn. Khi tính theo hình chữ nhật chuẩn, kích thước màn hình là 6.68 inch theo đường chéo. Diện tích hiển thị thực tế nhỏ hơn.</p><p>iPhone 13 Pro Max có khả năng chống nước, chống tia nước và chống bụi. Sản phẩm đã qua kiểm nghiệm trong điều kiện phòng thí nghiệm có kiểm soát đạt mức IP68 theo tiêu chuẩn IEC 60529. Khả năng chống tia nước, chống nước và chống bụi không phải là các điều kiện vĩnh viễn. Khả năng này có thể giảm do hao mòn thông thường. Không sạc pin khi iPhone đang bị ướt. Vui lòng tham khảo hướng dẫn sử dụng để biết cách lau sạch và làm khô máy. Không bảo hành sản phẩm bị hỏng do thấm chất lỏng.</p><p>Một số tính năng không khả dụng tại một số quốc gia hoặc khu vực.</p><p>Phụ kiện được bán riêng.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "star": "4.6",
+      "id_categories": 1
+    },
+    {
+      "id": 5,
+      "name": "Điện Thoại Oppo A55 (4GB/64GB) ",
+      "urlImage": "https://salt.tikicdn.com/cache/750x750/ts/product/b3/02/63/2b8317b20cf5e1f5f56d07f76652800a.jpg.webp",
+      "price": 3750000,
+      "descSort": "Điện Thoại Oppo A55 (4GB/64GB) có 2 biến thể màu gồm Starry Black (đen) và Rainbow Blue (xanh). Thiết kế cong 3D cùng kích thước mỏng nhẹ, OPPO A55 vừa vặn trong tay người cầm, cho từng thao tác trải nghiệm thoải mái và chắc chắn.",
+      "descLong": "<p>Ở bản màu Starry Black, mặt lưng sử dụng chất liệu nhựa nhám với bề mặt cực mịn, cho cảm giác cầm nắm chắc tay và hạn chế bám vân tay hoàn hảo. Bản màu Rainbow Blue là một sự sáng tạo của OPPO với mặt lưng sáng bóng có khả năng phản quang tốt tạo hiệu ứng màu sắc cầu vòng lung linh, đẹp mắt trên nền xanh trẻ trung.</p><p>OPPO A55 có màn hình đục lỗ với cạnh viền siêu mỏng, tỷ lệ màn hình so với khung máy 89.2%, tạo không gian trải nghiệm đã mắt cho từng nội dung xem.</p><p>Phiên bản này được trang bị 2 tính năng mở khóa bảo mật bao gồm cảm biến vân tay ở cạnh viền và mở khóa khuôn mặt, mang đến cho bạn nhiều sự lựa chọn để mở khoá cùng khả năng bảo vệ tốt thông tin cá nhân của bạn.</p><p>Cụm camera xếp dọc đặt nổi ở mặt sau thêm điểm nhấn cho thiết kế điện thoại, bao gồm camera chính cảm biến đến 50 MP, camera xoá phông 2 MP và camera macro chụp cận 2 MP.</p><p>Khả năng thu sáng và lấy nét cực tốt từ camera chính giúp những bức ảnh mang tới độ tươi sáng, chân thực và sắc nét cao. Hoàn hảo hơn cả khi OPPO A55 còn hỗ trợ nhiều bộ lọc chụp đêm, giờ đây mỗi bức ảnh chụp đêm của bạn sẽ càng trở nên nổi bật hơn.</p><p>Làm mờ hậu cảnh, nổi bật chủ thể nhờ camera xoá phông với hiệu hứng bokeh sẽ làm cho bức ảnh có điểm nhấn hơn, cuốn hút hơn đầy nghệ thuật và thể hiện rõ nội dung mong muốn từ người chụp.</p><p>Camera macro ghi lại những sự vật quen thuộc cách mới mẻ nhất, chụp cận sắc nét để phóng lớn mọi chi tiết, cho chúng trở nên hoành tráng, ấn tượng theo một cách độc đáo, thể hiện sự sáng tạo của bạn và sự độc đáo của tự nhiên.</p>",
+      "star": "5",
+      "id_categories": 1
+    },
+    {
+      "id": 6,
+      "name": "Máy Tính Bảng Samsung Galaxy Tab S7 FE LTE T735 (4GB/64GB)",
+      "urlImage": "https://salt.tikicdn.com/cache/750x750/ts/product/65/89/c7/66b73e67009e0af7204efb3c06d94590.jpg.webp",
+      "price": 9990000,
+      "descSort": "Tận hưởng tính năng đột phá và thế hệ S Pen cải tiến thông minh viết vẽ như thật. Thiết bị hoàn hảo cho học tập, làm việc và giải trí với màn hình 12.4”, vi xử lý Snapdragon 750G, loa kép cùng Pin 10,090mAh cho trải nghiệm liền mạch suốt ngày dài.",
+      "descLong": "<p>Thiết kế kim loại nguyên khối thanh lịch cùng viền máy mỏng và camera tối giản phía sau mang lại trải nghiệm cầm nắm gọn nhẹ trong tay và sự tinh tế cho Galaxy Tab S7 FE. Bật lên cá tính trẻ trung năng động và đậm dấu ấn riêng với các tone màu pastel Mint thời thượng và Black phong cách.</p><p>Đắm chìm vào không gian giải trí chuẩn điện ảnh với những khung hình rực rỡ sắc màu trên màn hình lớn 12.4' của Galaxy Tab S7 FE kết hợp với hệ thống loa kép sống động được tinh chỉnh bởi AKG và Dolby Atmos mang trải nghiệm nghe nhìn của bạn lên tầm cao mới.</p><p>Nhập mọi trận game hấp dẫn và lôi cuốn hơn với Vi xử lý Snapdragon 750G tám nhân mạnh mẽ và khả năng đa nhiệm đỉnh cao. Ngoài ra, bạn còn có thể mở rộng không gian lưu trữ lên đến 1TB với thẻ nhớ microSD, giúp lưu giữ mọi điều quan trọng trong một thiết bị duy nhất.</p><p>Làm việc và giải trí bất tận với Galaxy Tab S7 FE cùng dung lượng pin lớn nhất dành cho máy tính bảng Galaxy Tab lên đến 10,090mAh (tiêu chuẩn), bạn có thể xem phim thỏa thích lên đến 13 giờ, streaming hàng giờ liền.Tính năng Sạc Siêu Nhanh 45W giúp nhanh chóng sạc đầy thiết bị, liền mạch hoàn hảo mọi trải nghiệm .</p><p>Khi bạn xoay ngang Máy tính bảng cho cuộc gọi video, camera trước sẽ tự động điều chỉnh để bạn luôn ở giữa khung hình, kết hợp với 3 micrô quanh màn hình giúp mọi cuộc trò chuyện dễ dàng và rõ nét hơn bao giờ hết.</p><p>S Pen sở hữu đầu bút mảnh và độ nhạy tối đa cho trải nghiệm viết vẽ mượt mà như bút thật. Hơn thế nữa, bạn còn có thể dễ dàng chuyển chữ viết tay thành văn bản tức thì và chỉnh sửa dễ dàng.</p>",
+      "star": "4.8",
+      "id_categories": 2
+    },
+    {
+      "id": 7,
+      "name": "Máy tính bảng Samsung Galaxy Tab A7 Lite LTE SM-T225 ",
+      "urlImage": "https://salt.tikicdn.com/cache/750x750/ts/product/b9/76/19/7d3000c37a1f67f0bd7d6a4842ba62d9.png.webp",
+      "price": 4290000,
+      "descSort": "Máy tính bảng Samsung Galaxy Tab A7 Lite LTE SM-T225 cho bạn đắm chìm trong thế giới giải trí ở bất cứ nơi đâu với màn hình lớn lên đến 8.7'. Tối ưu trải nghiệm di động với viền màn hình mỏng và thiết kế kim loại nguyên khối thanh lịch giúp bạn dễ dàng cầm nắm và thao tác chỉ với một tay, ngay cả khi sử dụng nhiều giờ liền.      ",
+      "descLong": "<p>Thuận tiện nhưng vẫn đầy phong cách, Galaxy Tab A7 Lite chỉ mỏng 8.0mm và nặng 371g, gọn và nhẹ trong túi xách và luôn đồng hành cùng bạn trên mọi hành trình, thỏa sức thể hiện cá tính với hai màu sắc Xám Vũ Trụ và Bạc Ngân Hà.</p><p>Camera trên Galaxy Tab A7 Lite sẵn sàng lưu giữ và sẻ chia mọi khoảnh khắc cùng bạn. Dù là chụp chân dung hay phong cảnh, camera trên chiếc Tablet này luôn mang đến những khung hình hoàn mỹ, ấn tượng chưa từng có. Với camera chính 8MP, mọi khoảnh khắc bạn chụp lại đều sáng rõ và sống động bất ngờ.</p><p>Thiết kế viền mỏng với màn hình 8.7” giúp bạn mãn nhãn hơn với những thước phim tuyệt hảo. Âm thanh vòm sống động với loa kép hỗ trợ công nghệ Dolby Atmos cho bạn tận hưởng nội dung yêu thích ở bất cứ nơi đâu.</p><p>Thỏa thích lưu trữ hình ảnh, dữ liệu và video có độ phân giải cao với bộ nhớ trong 32GB. Ngoài ra, bạn còn có thể mở rộng không gian lưu trữ lên đến 1TB với thẻ nhớ microSD, giúp lưu giữ mọi điều quan trọng trong một thiết bị duy nhất.</p><p>Với dung lượng pin 5,100mAh* vượt mong đợi, Galaxy Tab A7 Lite cho bạn tự do trải nghiệm thế giới giải trí trong suốt thời gian dài tại bất kì nơi đâu, mà không phải mang theo củ sạc bên mình.</p><p>Galaxy Tab A7 Lite được đồng bộ hóa với điện thoại Galaxy qua Tài khoản Samsung giúp bạn hạn chế bỏ lỡ các cuộc gọi quan trọng, nhanh chóng trả lời tin nhắn và luôn nắm bắt kịp thời các thông tin trên chiếc máy tính bảng mà không cần dùng điện thoại. Chia sẻ dữ liệu dễ dàng với tính năng Auto Hotspot tiện ích.</p>",
+      "star": "4.5",
+      "id_categories": 2
+    },
+    {
+      "id": 8,
+      "name": "Apple iPad Pro 11- inch M1 Wi-Fi, 2021",
+      "urlImage": "https://salt.tikicdn.com/cache/750x750/ts/product/af/be/de/f941be7b685f23ffa0870f3eeca139f6.png.webp",
+      "price": 19290000,
+      "descSort": "iPad Pro sở hữu chip Apple M1 mạnh mẽ, vươn tầm hiệu năng đẳng cấp mới cùng thời lượng pin bền bỉ cả ngày.3 iPad Pro 11 inch nổi bật với màn hình Liquid Retina tuyệt đẹp và siêu gọn.1 Các phiên bản hỗ trợ Cellular giúp bạn duy trì đường truyền ổn định ngay khi không có Wi-Fi",
+      "descLong": "<p>Ứng dụng có sẵn trên App Store. Nội dung được cung cấp có thể thay đổi.</p><p>Màn hình có các góc bo tròn. Khi tính theo hình chữ nhật, kích thước màn hình iPad Pro 11 inch là 11 inch theo đường chéo. Diện tích hiển thị thực tế nhỏ hơn.</p><p>Cần có gói cước dữ liệu. Liên hệ với nhà mạng tại thị trường của bạn để biết thêm chi tiết. Tốc độ có thể thay đổi tùy địa điểm.</p><p>Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình. Truy cập để biết thêm thông tin.</p><p>Phụ kiện được bán riêng. Khả năng tương thích tùy thuộc thế hệ sản phẩm.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "star": "5",
+      "id_categories": 2
+    },
+    {
+      "id": 9,
+      "name": "Máy tính bảng Fire HD10 2021",
+      "urlImage": "https://salt.tikicdn.com/cache/750x750/ts/product/cd/b8/5e/37eae03404f091259512283f2b5e37fd.jpg.webp",
+      "price": 3034000,
+      "descSort": "ALL NEW Fire HD10 2021 (11th) là dòng sản phẩm đánh vào phân khúc giá rẻ của máy tính bảng. Mục đích ban đầu của nhà sản xuất là bù đắp cho sự thiếu hụt của máy đọc sách công nghệ Eink ở tính năng đọc PDF. Sau này trở thành dòng sản phẩm riêng biệt nhắm vào nhu cầu giải trí phim ảnh trong hệ sinh thái sáng tạo.",
+      "descLong": "<p>Bản thân chiếc Fire HD10 vốn dĩ với triết lý thiết kế rất thực tế về hiệu năng nên bạn không thể đòi hỏi nó quá cao về cấu hình máy. Tuy nhiên, với số tiền dưới 4 triệu đồng  thì gần như không có sản phẩm nào có thể vượt qua được nó (nhất là với nhu cầu xem phim/video hoặc các nhu cầu liên quan đến hiển thị hình ảnh).</p><p>Pin rất tốt lên đến 12h - Với bản HD10 2021 (11th), NSX đã trang bị cổng USB-C khiến bạn có thể đồng bộ cổng sạc với các thiết bị hiện đại khác. Đồng thời, công nghệ sạc không dây đã được trang bị trên chiếc Fire thế hệ 11 (chỉ có ở phiên bản Plus) giúp bạn thoải mái vừa xem phim vừa sạc mà không lo đến hiện tượng nguy hiểm khi sạc (tuy nhiên, nên hạn chế vừa sử dụng vừa sạc).</p><p>RAM 3GB (bản PLUS là 4GB RAM), CHIP Octa-core 2.0 GHz tăng hiệu năng sử dụng gấp nhiều lần so với các sản phẩm đời trước. Nếu bạn là người trung thành với dòng sản phẩm máy tính bảng Kindle Fire  thì chắc chắn sẽ nhận ra sự khác biệt rất rõ rệt ở lần nâng cấp phần cứng này có ảnh hưởng như nào đến trải nghiệm sử dụng sản phẩm.</p><p>Màn hình 10.1inch FullHD 1080 lên đến 2 triệu điểm ảnh khiến màu sắc hiển thị vô cùng bắt mắt, sắc nét. Gần như không có sự phàn nàn nào về màn hình hiển thị chiếc Kindle Fire HD10 từ người sử dụng. </p><p>Màn hình 10.1inch FullHD 1080 lên đến 2 triệu điểm ảnh khiến màu sắc hiển thị vô cùng bắt mắt, sắc nét. Gần như không có sự phàn nàn nào về màn hình hiển thị chiếc Kindle Fire HD10 từ người sử dụng. </p><p> Với phiên bản  Fire HD10 thế hệ 11 bạn có thể tìm kiếm cho mình những phụ kiện thông minh đi kèm gia tăng hiệu quả làm việc: Sạc không dây, bàn phím (Keyboard),</p>",
+      "star": "5",
+      "id_categories": 2
+    },
+    {
+      "id": 10,
+      "name": "Apple iPad Pro 12.9 - inch M1 Wi-Fi, 2021",
+      "urlImage": "https://salt.tikicdn.com/cache/750x750/ts/product/32/93/6b/63e9951aa3ef30f65e4da31e304a3e31.png.webp",
+      "price": 22950000,
+      "descSort": "iPad Pro sở hữu chip Apple M1 mạnh mẽ, vươn tầm hiệu năng đẳng cấp mới cùng thời lượng pin bền bỉ cả ngày.3 Màn hình Liquid Retina XDR 12.9 inch sống động để xem, chỉnh sửa video và hình ảnh HDR.1 Các phiên bản hỗ trợ Cellular giúp bạn duy trì đường truyền ổn định ngay khi không có Wi-Fi.",
+      "descLong": "<p>Ứng dụng có sẵn trên App Store. Nội dung được cung cấp có thể thay đổi.</p><p>Màn hình có các góc bo tròn. Khi tính theo hình chữ nhật, kích thước màn hình iPad Pro 12.9 inch là 12.9 inch theo đường chéo. Diện tích hiển thị thực tế nhỏ hơn.</p><p>Cần có gói cước dữ liệu. Liên hệ với nhà mạng tại thị trường của bạn để biết thêm chi tiết. Tốc độ có thể thay đổi tùy địa điểm.</p><p>Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình. Truy cập để biết thêm thông tin.</p><p>Phụ kiện được bán riêng. Khả năng tương thích tùy thuộc thế hệ sản phẩm.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "star": "4.9",
+      "id_categories": 2
+    },
+    {
+      "id": 11,
+      "name": "Máy Tính Xách Tay HUAWEI MateBook 14 (8GB/512GB)",
+      "urlImage": "https://salt.tikicdn.com/cache/750x750/ts/product/2c/44/53/b2e2fb0e37c703bb1e750c91de4b7e89.jpg.webp",
+      "price": 17974000,
+      "descSort": "Intel Core Thế Hệ Thứ 11 | Màn Hình HUAWEI 3:2 Fullview 2k | Nút Nguồn Vân Tay | Hàng Chính Hãng",
+      "descLong": "<p>*Hình ảnh sản phẩm và nội dung hiển thị trên các trang nêu trên chỉ nhằm mục đích tham khảo. Tính năng và thông số kỹ thuật của sản phẩm thực tế(bao gồm nhưng không giới hạn ở kiểu dáng, màu sắc và kích thước), cũng như nội dung hiển thị thực tế(bao gồm nhưng không giới hạn ở hình nền, giao diện người dùng và biểu tượng)có thể thay đổi.</p><p>**Tất cả dữ liệu trong các trang nêu trên là giá trị lý thuyết do các phòng nghiên cứu nội bộ của HUAWEI thu thập qua các thử nghiệm được thực hiện trong điều kiện cụ thể. Để biết thêm thông tin, hãy tham khảo chi tiết sản phẩm nêu trên. Dữ liệu thực tế có thể thay đổi do khác biệt về từng sản phẩm, phiên bản phần mềm, tình trạng ứng dụng và yếu tố môi trường. Mọi dữ liệu đều dựa trên sử dụng thực tế.</p><p>***Do các thay đổi trong thời gian thực liên quan đến các lô sản phẩm, yếu tố sản xuất và cung ứng nên để cung cấp thông tin, thông số kỹ thuật và tính năng sản phẩm chính xác, HUAWEI có thể điều chỉnh mô tả văn bản và hình ảnh trong các trang thông tin nêu trên theo thời gian thực sao cho tương ứng với hiệu suất sản phẩm, thông số kỹ thuật, chỉ số và cấu phần của sản phẩm thực tế. Thông tin sản phẩm có thể được thay đổi và điều chỉnh như trên mà không thông báo.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "star": "5",
+      "id_categories": 3
+    },
+    {
+      "id": 12,
+      "name": "Laptop HP Pavilion 14 (46L92PA )",
+      "urlImage": "https://salt.tikicdn.com/cache/750x750/ts/product/52/ec/46/993dbb945c5b684ac156c4e3aa064d37.jpg.webp",
+      "price": 13940000,
+      "descSort": "Máy tính xách tay Laptop HP Pavilion 14 (46L92PA )/ i3-1125G4 / 4G/ 256G SSD/ 14'FHD/ WL+BT/ Windows 11/ Silver ( Hàng Chính Hãng ) ",
+      "descLong": "<p>Laptop HP Pavilion mang phong cách tối giản, hiện đại được hoàn thiện với các đường viền cắt vát tỉ mỉ, có nắp lưng và chiếu nghỉ tay bằng kim loại, phủ gam màu sang trọng, trang nhã, logo đặt tinh tế ở giữa làm tăng thêm độ thẩm mỹ, bắt mắt thích hợp với đa dạng đối tượng người dùng ở độ tuổi khác nhau.</p><p>HP Pavilion 14 có độ dày 17 mm và trọng lượng nhẹ 1.41 kg khá gọn gàng so với các dòng laptop trong phân khúc, thuận tiện bỏ vừa vặn vào balo, túi xách để sẵn sàng đồng hành cùng bạn đi học tập, làm việc mọi lúc, mọi nơi mà không lo vướng víu, nặng nhọc.</p><p>Bàn phím có khoảng cách giữa các phím rộng rãi, nút bấm êm, độ nảy tốt và hành trình phím sâu tạo cảm giác thoải mái, chuẩn xác khi sử dụng. Tuy nhiên chiếc laptop vẫn chưa được tích hợp đèn nền vào bàn phím nên sẽ hơi bất tiện khi nhập liệu, soạn thảo trong điều kiện thiếu sáng.</p><p>Laptop HP trang bị đa dạng các cổng kết nối như: 2 x SuperSpeed USB A, USB Type-C (Power Delivery and DisplayPort), HDMI, Jack tai nghe 3.5 mm, khe thẻ nhớ Micro SD liên kết với các thiết bị ngoại vi tương thích khác như USB, máy chiếu, màn hình rời, loa, chuột, bàn phím, một cách dễ dàng, nhanh chóng và truyền thông tin chuẩn xác mà không cần adapter chuyển đổi rườm rà.</p><p>Bên cạnh đó còn hỗ trợ hai chuẩn kết nối không dây Bluetooth 5.0 với tốc độ băng thông đạt được lên đến 50 Mbps và Wi-Fi 802.11 a/b/g/n/ac băng tần 5 GHz và tốc độ tối đa lên đến 1730 Mbps người dùng sẽ trải nghiệm tốc độ mạng ở mức cao, đường truyền luôn ổn định, hạn chế bị ngắt quãng giữa chừng.</p><p>Xử lý trơn tru các công việc văn phòng trên Word, Excel, PowerPoint, đến các ứng dụng thiết kế đồ họa cơ bản như Photoshop, AI, Figma, nhờ hiệu năng vượt trội có tốc độ xung nhịp trung bình 2.4 GHz, đạt cao nhất lên đến Turbo Boost 4.2 GHz đến từ con chip Intel Core i5 Tiger Lake 1135G7 có cấu trúc 4 nhân 8 luồng, sản xuất trên tiến trình 10 nm SuperFin giúp đồng thời tiết kiệm điện năng hơn so với thế hệ tiền nhiệm.</p>",
+      "star": "5",
+      "id_categories": 3
+    },
+    {
+      "id": 13,
+      "name": "Laptop Lenovo ideapad 3",
+      "urlImage": "https://salt.tikicdn.com/cache/750x750/ts/product/7e/30/e0/3597cef45919c589ebe938d1aeaee2f1.jpg.webp",
+      "price": 8990000,
+      "descSort": "Sở hữu thiết kế thanh lịch, năng động với trọng lượng nhẹ.Chip xử lý Intel thế hệ thứ 10 mang đến hiệu năng vượt trội.Hình ảnh hiển thị sắc nét, âm thanh sống động đầy chân thực.RAM 8GB DDR4 chạy mượt mà nhiều ứng dụng hạn chế giật lag.Ổ cứng 256GB khởi động máy nhanh, không gian lưu trữ đủ dùng.Trang bị đủ cổng kết nối thông dụng phục vụ công việc và giải trí",
+      "descLong": "<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....      </p>",
+      "star": "5",
+      "id_categories": 3
+    },
+    {
+      "id": 14,
+      "name": "Laptop Lenovo ThinkBook 15 ",
+      "urlImage": "https://salt.tikicdn.com/cache/750x750/ts/product/e4/c4/3d/fe9be35b1298ad727aed7a2c1b3f3079.png.webp",
+      "price": 11490000,
+      "descSort": "CPU: AMD R3 5300U.RAM: 4GB.Ổ cứng: 512GB SSD.VGA: Onboard.Màn hình: 15.6 inch FHD.HĐH: Win 10.Màu: Xám",
+      "descLong": "<p>Máy tính xách tay Lenovo ThinkBook 15 G3 có lớp vỏ màu xám với các họa tiết trang nhã. Thiết kế tối giản, phù hợp với nhiều môi trường làm việc khác nhau. Chiếc laptop này khá mỏng và nhẹ với trọng lượng chỉ 1,7kg và độ dày chưa đến 2cm cùng với khung máy chắc chắn, cầm chắc tay và ít bám bụi và dấu vân tay. Điều này rất tiện lợi khi bạn phải mang máy đi làm, đi học mà không sợ cồng kềnh và hạn chế tình trạng máy bị giật trong quá trình di chuyển. Đặc biệt, bản lề của laptop được thiết kế mở rộng 180 độ rất tiện lợi khi sử dụng ở nhiều tư thế, hạn chế tình trạng gãy bản lề khi chẳng may bị va đập mạnh. Lenovo ThinkBook 15 G3 được chứng nhận về độ bền đạt tiêu chuẩn quân đội, hạn chế hư hỏng do tác động hàng ngày, đồng hành lâu dài cùng người dùng. Tính năng bảo mật vân tay giúp laptop Lenovo ThinkBook 15 G3 ngăn chặn sự xâm nhập trái phép từ bên ngoài và thuận tiện hơn cho người dùng khi mở máy hoặc thanh toán trực tuyến.</p><p>Lenovo Thinkbook 15 G3 có các tuỳ chọn về cấu hình, đầu tiên về bộ vi xử lí máy có 3 tuỳ chọn, Ryzen 3-5300U, Ryzen 5-5500U, Ryzen 7-5700U. Cho khả năng xử lý nhanh chóng các tác vụ văn phòng, đồ họa cơ bản. Tiếp theo là bộ nhớ RAM, Lenovo Thinkbook 15 G3 sử dụng loại RAM DDR4 mang lại hiệu suất cao hơn, dung lượng DIMM lớn hơn, cải thiện tính toàn vẹn của dữ liệu và tiêu thụ ít điện năng hơn. Ngoài ra, Bạn sẽ không phải đợi lâu khi khởi động hay khởi chạy ứng dụng, các thao tác trên máy cũng được phản hồi chỉ trong vài giây nhờ ổ cứng SSD M.2 PCIe 256GB hoặc 512GB, với 2 tuỳ chọn này bạn cũng có thể thoải mái lưu trữ hình ảnh tài liệu và các ứng dụng trên ổ cứng này. Hỗ trợ khe cắm SATA HDD để dễ dàng nâng cấp nếu bạn cần thêm dung lượng lưu trữ.</p><p>Lenovo trang bị cho Lenovo Thinkbook 15 G3 màn hình 15,6 inch với độ phân giải full HD (1920 x 1080) mang đến hình ảnh sống động, chi tiết rõ ràng, màu sắc chính xác. Khung viền siêu mỏng mang đến trải nghiệm giải trí đắm chìm và thoải mái nhất. Tấm nền IPS giữ cho hình ảnh ở các góc nhìn khác nhau đồng nhất để có trải nghiệm xem tốt hơn. Hơn nữa, màn hình còn có công nghệ chống chói giúp hạn chế tình trạng chói, lóa màn hình khi sử dụng ngoài trời, đồng thời giúp mắt bớt mỏi khi làm việc nhiều giờ.</p><p>Khả năng xử lý đa nhiệm không chỉ thể hiện bên trong vi xử lý mà còn thể hiện ở việc máy được tích hợp hàng loạt kết nối hữu ích như USB-C, HDMI, đầu đọc thẻ 4 trong 1, cho phép mở rộng. khả năng xử lý đồng thời nhiều công việc của thiết bị, tiết kiệm thời gian và công sức cho người dùng.</p>",
+      "star": "5",
+      "id_categories": 3
+    },
+    {
+      "id": 15,
+      "name": "MacBook Air M1 13 inch 2020",
+      "urlImage": "https://salt.tikicdn.com/cache/750x750/media/catalog/producttmp/5d/50/5e/1d977cb23133c625f0baf7f4326cf523.jpg.webp",
+      "price": 22300000,
+      "descSort": "MacBook Air là máy tính xách tay mỏng và nhẹ nhất của Apple, siêu mạnh mẽ với chip M1. Tạo ra một bước đột phá về hiệu năng CPU và đồ họa, cùng với thời lượng pin lên đến 18 giờ.(1) Giúp bạn hoàn thành mọi khối lượng bài tập thật dễ dàng.",
+      "descLong": "<p>Hiện có sẵn các lựa chọn để nâng cấp.</p><p>(1) Thời lượng pin khác nhau tùy theo cách sử dụng và cấu hình. Truy cập để biết thêm thông tin.</p><p>(2) So với thế hệ trước.</p><p>(3) Kích thước màn hình tính theo đường chéo.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "star": "5",
+      "id_categories": 3
+    },
+    {
+      "id": 16,
+      "name": "Tai Nghe Nhét Tai Sony ExtraBass MDR-XB55AP ",
+      "urlImage": "https://salt.tikicdn.com/cache/750x750/media/catalog/product/1/_/1.u5488.d20170828.t103555.934965_1.jpg.webp",
+      "price": 524000,
+      "descSort": "Tai Nghe Nhét Tai Sony Extra Bass MDR-XB55AP có thiết kế siêu tinh tế với kiểu dáng nhỏ gọn, nhiều màu sắc để chọn lựa sao cho phù hợp với phong cách người dùng. Ngoài ra, sở hữu trọng lượng khá nhẹ, dễ gấp gọn bạn có thể nhét túi hay balo đều tiện lợi, mang theo trong những chuyến hành trình xa mà không lo vướng víu.",
+      "descLong": "<p>Công nghệ Bass Duct ++ trên tai nghe Sony MDR-XB55AP cho ra những âm bass với chất lượng cực đỉnh, chất âm có chiều sâu, rõ ràng, chi tiết trong từng giai điệu mang đến cho người dùng những phút giây giải trí cực đã.</p><p>Sony Extra Bass MDR-XB55AP sở hữu kiểu dây với thiết kế chống rối siêu tiện ích đem đến nhiều tiện lợi hơn cho người dùng. Ngoài ra, sản phẩm được làm từ chất liệu cao cấp, có độ bền cao cũng góp phần giúp tai nghe có tuổi thọ sử dụng lâu hơn so với một số dòng sản phẩm thông thường khác.</p><p>Thực hiện cuộc gọi rảnh tay và chuyển tiếp các bài hát chỉ trong nháy mắt mà không cần phải chạm vào điện thoại thông minh của bạn, đó chính là việc nhờ vào bộ điều khiển từ xa và micro trực tuyến được tích hợp trên tai nghe, mang đến cho người dùng những trải nghiệm mới mẻ và nhiều hứng thú hơn.</p> <p>Tai nghe sử dụng cho hầu hết các dòng thiết bị phổ biến hiện nay như PC, laptop, MP3, điện thoại, máy tính bảng.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "star": "4.9",
+      "id_categories": 4
+    },
+    {
+      "id": 17,
+      "name": "Tai nghe có dây Logitech H340",
+      "urlImage": "https://salt.tikicdn.com/cache/750x750/media/catalog/producttmp/bb/a5/4d/4535115d83b3e255748674a6b3200d45.png.webp",
+      "price": 417000,
+      "descSort": "Với âm thanh kỹ thuật số trong trẻo, các cuộc gọi internet của bạn, âm nhạc, video cuốn hút và nhiều hơn thế sẽ có âm thanh hay hơn bao giờ hết.",
+      "descLong": "<p>Hoạt động với các ứng dụng gọi điện phổ biến bao gồm Skype, Google Hangouts, Yahoo!Messenger, và các dịch vụ gọi điện khác.</p><p> Mổi sản phẩm Logitech có 2 cấp độ số Serial khác nhau. 1 số trên bao bì (ngoài vỏ hộp) và 1 số bên trên sản phẩm. Hai số Serial này hoàn toàn khác nhau. Do chính sách quản lí riêng của - Logitech nên đây là vấn đề hoàn toàn bình thường.</p><p>Logitech bảo hành điện tử theo mã số đơn hàng (Ngoài ra còn bảo hành theo mã số seri từng sản phẩm) nên sẽ không có phiếu bảo hành đi kèm.</p><p>Tất cả sản phẩm Logitech đều có thể còn hoặc không còn niêm phong của nhà sản xuất tùy vào từng đợt hàng, chính sách của các đơn vị nhập khẩu, phân phối và quá trình kiểm tra sản phẩm.</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "star": "5",
+      "id_categories": 4
+    },
+    {
+      "id": 18,
+      "name": "Tai nghe không dây X15 Tai nghe chơi game",
+      "urlImage": "https://salt.tikicdn.com/cache/750x750/ts/product/2a/4f/25/7dcc3af02e30c9ca62518437c49d0633.jpg.webp",
+      "price": 160000,
+      "descSort": "Model: X15 - Style: in-ear - Chip: JL6983",
+      "descLong": "<p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "star": "4",
+      "id_categories": 4
+    },
+    {
+      "id": 19,
+      "name": "Tai nghe Remax RM-201",
+      "urlImage": "https://salt.tikicdn.com/cache/750x750/ts/product/77/fc/43/d2879cc61f73fb5c209a583ea9eb067c.jpg.webp",
+      "price": 118000,
+      "descSort": "Muốn nghe nhạc HAY, CHỐNG ỒN cực đỉnh, giá cả phải chăng, chế độ bảo hành tốt thì chỉ có mua ́",
+      "descLong": "<p>Thiết kế nhét nửa tai độc đáo</p><p>Tích hợp bộ phím giúp bạn điều khiển ở chế độ rảnh tay</p><p>Chất lượng âm thanh tốt nhất, chuẩn HD</p><p>Khả năng cách âm cực tốt, đàm thoại rõ ràng</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "star": "5",
+      "id_categories": 4
+    },
+    {
+      "id": 20,
+      "name": "Tai nghe KZ ZSN Pro X - Bản nâng cấp tốt hơn, đẹp hơn có micro ",
+      "urlImage": "https://salt.tikicdn.com/cache/750x750/ts/product/74/46/4a/b67918615207fca02b7f5e4c537b8533.jpg.webp",
+      "price": 389000,
+      "descSort": "KZ ZSN Pro X vẫn giữ nguyên kiểu dáng từ đàn anh ZSN Pro nhưng được nâng cấp lên dây dẫn mạ bạc cho chất lượng âm thanh tốt hơn, được cấu hình lại giúp chất âm mượt mà hơn, thêm màu sắc mới đẹp hơn, cá tính hơn",
+      "descLong": "<p>Model: ZSN PRO X</p><p>Trở kháng: 25 Ohm</p><p>Độ nhạy: 112 dB</p><p>Tần số: 7 - 40000 Hz</p><p>Chiều dài dây: 1m2</p><p>Micro: Có - Chất lượng HD</p><p>KZ ZSN Pro X vẫn giữ nguyên kiểu dáng từ đàn anh ZSN Pro nhưng được nâng cấp lên dây dẫn mạ bạc cho chất lượng âm thanh tốt hơn, được cấu hình lại giúp chất âm mượt mà hơn, thêm màu sắc mới đẹp hơn, cá tính hơn</p><p>Giá sản phẩm trên Tiki đã bao gồm thuế theo luật hiện hành. Bên cạnh đó, tuỳ vào loại sản phẩm, hình thức và địa chỉ giao hàng mà có thể phát sinh thêm chi phí khác như phí vận chuyển, phụ phí hàng cồng kềnh, thuế nhập khẩu (đối với đơn hàng giao từ nước ngoài có giá trị trên 1 triệu đồng).....</p>",
+      "star": "4.5",
+      "id_categories": 4
+    },
+    {
+      "name": "fuckboy",
+      "price": 123123,
+      "descSort": "sdaa2d",
+      "descLong": "adsa",
+      "id_categories": "2",
+      "urlImage": "https://salt.tikicdn.com/cache/750x750/ts/product/65/89/c7/66b73e67009e0af7204efb3c06d94590.jpg.webp",
+      "id": 21
+    }
+  ],
+  "Categories": [
+    {
+      "id": 1,
+      "name": "Điện thoại"
+    },
+    {
+      "id": 2,
+      "name": "Máy tính bảng"
+    },
+    {
+      "id": 3,
+      "name": "Laptop"
+    },
+    {
+      "id": 4,
+      "name": "Âm thanh"
+    }
+  ]
+}

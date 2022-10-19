@@ -21,6 +21,11 @@ server.use(rules);
 server.use(auth);
 
 server.use(middlewares);
+res.setHeader("Access-Control-Allow-Origin", "*");
+res.setHeader("Access-Control-Allow-Credentials", "true");
+res.setHeader("Access-Control-Max-Age", "1800");
+res.setHeader("Access-Control-Allow-Headers", "content-type");
+
 server.use((req, res, next) => {
   if (req.method === "POST") {
     req.body.createAt = Date.now();

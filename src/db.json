@@ -39,6 +39,18 @@
       "password": "quoctuan123",
       "phone": "098989898989",
       "admin": false
+    },
+    {
+      "name": "baitap",
+      "email": "datntph15649@fpt.edu.vn",
+      "password": "123123",
+      "urlImage": "https://picsum.photos/536/354",
+      "admin": false,
+      "createAt": 1666086762510,
+      "updateAt": 1666086762510,
+      "id": 6,
+      "phone": "0676574353",
+      "address": "Thanh Xuân, Hà Nội "
     }
   ],
   "Products": [

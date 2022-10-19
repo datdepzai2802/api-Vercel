@@ -51,6 +51,16 @@
       "id": 6,
       "phone": "0676574353",
       "address": "Thanh Xuân, Hà Nội "
+    },
+    {
+      "name": "fuckboy",
+      "email": "loannt43@fpt.edu.vn",
+      "password": "1234567",
+      "urlImage": "https://picsum.photos/536/354",
+      "admin": false,
+      "createAt": 1666167272646,
+      "updateAt": 1666167272646,
+      "id": 7
     }
   ],
   "Products": [
